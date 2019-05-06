@@ -9,3 +9,14 @@ C:\Users\Pichau\Desktop\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\obj\
 C:\Users\Pichau\Desktop\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.AssemblyInfo.cs
 C:\Users\Pichau\Desktop\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.dll
 C:\Users\Pichau\Desktop\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.pdb
+C:\Users\user\Desktop\oldpc\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.csprojAssemblyReference.cache
+C:\Users\user\Desktop\oldpc\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oldpc\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\oldpc\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.AssemblyInfo.cs
+C:\Users\user\Desktop\oldpc\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.dll
+C:\Users\user\Desktop\oldpc\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\obj\Debug\netcoreapp2.1\xadrez-console.pdb
+C:\Users\user\Desktop\oldpc\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.deps.json
+C:\Users\user\Desktop\oldpc\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.runtimeconfig.json
+C:\Users\user\Desktop\oldpc\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.runtimeconfig.dev.json
+C:\Users\user\Desktop\oldpc\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.dll
+C:\Users\user\Desktop\oldpc\6SHARP\Sistema xadrez\xadrez-console\xadrez-console\bin\Debug\netcoreapp2.1\xadrez-console.pdb
